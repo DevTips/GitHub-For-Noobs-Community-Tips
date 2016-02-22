@@ -1,8 +1,6 @@
 # GitHub-For-Noobs-Community-Tips
 #### This Repo is a collection of great tips and references from the comments found in the GitHub for Noobs Series
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/1h9_cB9mPT8/mqdefault.jpg)](http://www.youtube.com/watch?v=1h9_cB9mPT8)
-
 https://www.youtube.com/playlist?list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw
 
 

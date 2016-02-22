@@ -40,9 +40,9 @@ It can correct your last command, executing the `fuck` command. For example, if 
 
 I always do `git add .` to add all files to staging stage.
 
-**Marcel Robitaille**
+> **Marcel Robitaille**
 
-I don't think that adds deleted files. I like `git add -A`
+> I don't think that adds deleted files. I like `git add -A`
 
 ---
 

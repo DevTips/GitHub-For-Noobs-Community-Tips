@@ -60,7 +60,7 @@ To Merge a Branch into master : 1: `git checkout master -> git merge BranchName`
 
 **MUSTBENICE**
 
-Ever heard about git-flow? Make sure to google that, it's a great extension for git ^^
+Ever heard about [git-flow](https://github.com/nvie/gitflow)? Make sure to google that, it's a great extension for git ^^
 
 ---
 
